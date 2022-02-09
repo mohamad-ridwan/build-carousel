@@ -1,0 +1,12 @@
+.carousel{
+    overflow: hidden;
+
+    .inner{
+        white-space: nowrap;
+        transition: transform 0.3s;
+    }
+
+    button{
+        cursor: pointer;
+    }
+}
